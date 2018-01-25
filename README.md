@@ -16,16 +16,16 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
+# Supported with :heart: by [Instabug](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
+[![ios](https://user-images.githubusercontent.com/9888943/35381070-c2ad4708-01c3-11e8-823d-55b6ca8e99e9.gif)](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
+> Instabug SDK allows iOS developers to receive detailed bug reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. [Learn more.](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
+
 # How to Use
 Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
 - Ask for help on our [Twitter](https://twitter.com/awesome_ios) or [Gitter Channel](https://gitter.im/vsouza/awesome-ios)
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
-
-# Supported with :heart: by [Instabug](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
-[![ios](https://user-images.githubusercontent.com/9888943/35381070-c2ad4708-01c3-11e8-823d-55b6ca8e99e9.gif)](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
-> Instabug SDK allows iOS developers to receive detailed bug reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. [Learn more.](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
-[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 ## Content
 - [About](#about)
