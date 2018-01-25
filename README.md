@@ -17,7 +17,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
 # Supported with :heart: by [Instabug](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
-[![ios](https://user-images.githubusercontent.com/9888943/35381070-c2ad4708-01c3-11e8-823d-55b6ca8e99e9.gif)](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
+[![ios](https://user-images.githubusercontent.com/9888943/35385678-ccc46588-01d1-11e8-83bc-7fcbe69065d3.gif)](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
 > Instabug SDK allows iOS developers to receive detailed bug reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. [Learn more.](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
