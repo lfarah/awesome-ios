@@ -18,7 +18,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 
 ## Recommend awesome SDK for bug and crash reporting [Instabug](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
 [![ios](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
-> Instabug SDK allows tens of thousands of companies like Lyft, eBay, and T-Mobil and other top developers to iterate faster and enhance their app quality by receive detailed bug and crash reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and reproduce steps with each bug or crash report. This  minimizes debugging time and helps in tracing weird bugs. [Learn more.](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
+> Instabug SDK allows tens of thousands of companies like Lyft, eBay, and T-Mobile to iterate faster and enhance their app quality by receiving detailed bug and crash reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and repro-steps (or steps to reproduce) with each bug or crash report. This minimizes debugging time and helps in tracing weird bugs. [Learn more.](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 # How to Use
