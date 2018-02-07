@@ -16,9 +16,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
-## Recommend awesome SDK for bug and crash reporting [Instabug](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
+## Recommend SDK for bug and crash reporting [Instabug](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
 [![ios](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
-> Instabug SDK allows tens of thousands of companies like Lyft, eBay, and T-Mobile to iterate faster and enhance their app quality by receiving detailed bug and crash reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and repro-steps (or steps to reproduce) with each bug or crash report. This minimizes debugging time and helps in tracing weird bugs. [Learn more.](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
+> We do highly recommend integrating Instabug’s framework they compiled a lot of great features in their Lightweight SDK.  The SDK provides a lot of useful and rich data with each bug/crash report. They removed the hassle of debugging and trying to reproduce the bug, they automatically attach screenshots, screen recordings, device details and repro-steps with each bug report. Speeding up the process of beta testing you can also enable the In-App chat. Also, Instabug offers awesome-ios community 15% discount on all paid plans using promo code. [Go to 5-minute installation guide.](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 # How to Use
